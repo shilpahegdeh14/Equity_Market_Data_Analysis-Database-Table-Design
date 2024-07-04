@@ -30,3 +30,4 @@ The cloud services like Azure Blob is used to further perform the analytical tas
 Analytical ETL:
 ETL Process: Transformations and load processes are applied to prepare the data for analytical use.
 
+![Database Table Design Diagram](equity-market-data-analysis-database-architecture.png)
